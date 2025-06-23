@@ -70,10 +70,10 @@ python main.py
 ```
 
 ## Screenshot
-
-![image](https://github.com/user-attachments/assets/a956a10a-b583-42dc-a660-6f13bb09a8e9)
-
-![image](https://github.com/user-attachments/assets/98af2971-6690-448d-b0bd-41fc1f0f533c)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b611af0a-2828-4c07-af76-726d2748e8f5" width="45%"/>
+    <img src="https://github.com/user-attachments/assets/f2162ee0-11f2-4dc5-882f-4a975a041c49" width="45%"/>
+</p>    
 
 
 
