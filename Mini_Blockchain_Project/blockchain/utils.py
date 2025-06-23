@@ -53,6 +53,6 @@ def input_number_of_transactions_in_block():
     number_of_transactions_in_block = int(input("number_of_transactions_in_block: "))
     if not isinstance(number_of_transactions_in_block, int):
         print("Input must integer")
-        input_nnumber_of_transactions_in_block()
+        input_number_of_transactions_in_block()
     return number_of_transactions_in_block
 
