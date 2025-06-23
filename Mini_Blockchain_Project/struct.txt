@@ -1,0 +1,18 @@
+mini-blockchain/
+├── blockchain/
+│   ├── __init__.py
+│   ├── block.py
+│   ├── chain.py
+│   └── utils.py
+├── data/
+│   ├── coins.json
+│   └── users.json
+├── test/
+│   └── test_blockchain.py
+├── bin/
+│   ├── main.py
+│   └── main.exe
+├── LICENSE
+├── README.md
+├── .gitignore
+└── requirements.txt
