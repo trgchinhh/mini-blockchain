@@ -1,4 +1,4 @@
-# Mini Blockchain Project
+# Mini Blockchain Python
 
 ## Giới thiệu
 - Project nhỏ mô phỏng cách hoạt động của blockchain 1 cách cơ bản 
