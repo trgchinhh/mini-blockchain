@@ -69,3 +69,11 @@ python main.py
 /mini-blockchain/blockchain/bin/main.exe
 ```
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/a956a10a-b583-42dc-a660-6f13bb09a8e9)
+
+![image](https://github.com/user-attachments/assets/98af2971-6690-448d-b0bd-41fc1f0f533c)
+
+
+
