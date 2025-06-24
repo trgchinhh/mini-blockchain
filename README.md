@@ -38,23 +38,25 @@ mini-blockchain/
 - tests: test file trước khi cho ra file main
 - main: file chính
 -->
+
 ```bash
-mini-blockchain/                    # tên dự án 
-├── blockchain/                     # mã nguồn chính
-│   ├── __init__.py                 # khởi tạo module
-│   ├── block.py                    # class Block
-│   ├── chain.py                    # class Blockchain
+mini-blockchain/                    # Tên dự án 
+├── blockchain/                     # Mã nguồn chính
+│   ├── __init__.py                 # Khởi tạo module
+│   ├── block.py                    # Class Block
+│   ├── chain.py                    # Class Blockchain
 │   └── utils.py                    # Các hàm phụ (còn lại)
-├── data/                           # dữ liệu lưu trữ 
-│   ├── block_history.json          # lưu block
+├── data/                           # Dữ liệu lưu trữ 
+│   ├── block_history.json          # Lưu block
 │   └── users.json                  # Tên user (người chuyển -> người nhận)
-├── test/                           # kiểm thử
+├── test/                           # Kiểm thử
 │   └── test_blockchain.py          # Kiểm thử file main
-├── bin/                            # file đã được build
-│   └── main.exe                    # file main (.exe)
-├── main.py                         # file main (source)
-├── LICENSE                         # giấy phép nguồn mở
-└── README.md                       # mô tả dự án 
+├── bin/                            # File đã được build
+│   └── main.exe                    # File main (.exe)
+├── main.py                         # File main (source)
+├── LICENSE                         # Giấy phép nguồn mở
+└── README.md                       # Mô tả dự án 
+
 ```
 
 ## Cách chạy 
