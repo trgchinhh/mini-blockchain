@@ -71,11 +71,13 @@ python main.py
 /mini-blockchain/blockchain/bin/main.exe
 ```
 
+<!--
 ## Screenshot
 <p align="center">
     <img src="https://github.com/user-attachments/assets/b611af0a-2828-4c07-af76-726d2748e8f5" width="45%"/>
     <img src="https://github.com/user-attachments/assets/f2162ee0-11f2-4dc5-882f-4a975a041c49" width="45%"/>
-</p>    
+</p>
+-->
 
 
 
