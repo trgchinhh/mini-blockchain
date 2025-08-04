@@ -71,6 +71,8 @@ python main.py
 /mini-blockchain/blockchain/bin/main.exe
 ```
 
+- Folder RSA (demo mã hóa bất đối xúng trong blockchain)
+
 <!--
 ## Screenshot
 <p align="center">
@@ -78,6 +80,7 @@ python main.py
     <img src="https://github.com/user-attachments/assets/f2162ee0-11f2-4dc5-882f-4a975a041c49" width="45%"/>
 </p>
 -->
+
 
 
 
